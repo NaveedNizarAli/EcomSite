@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/EcomSite/static/css/main.6e9827c4.chunk.css",
+    "main.js": "/EcomSite/static/js/main.c5a1ed7f.chunk.js",
+    "main.js.map": "/EcomSite/static/js/main.c5a1ed7f.chunk.js.map",
+    "runtime-main.js": "/EcomSite/static/js/runtime-main.50ac77de.js",
+    "runtime-main.js.map": "/EcomSite/static/js/runtime-main.50ac77de.js.map",
+    "static/js/2.b6766690.chunk.js": "/EcomSite/static/js/2.b6766690.chunk.js",
+    "static/js/2.b6766690.chunk.js.map": "/EcomSite/static/js/2.b6766690.chunk.js.map",
+    "index.html": "/EcomSite/index.html",
+    "precache-manifest.497c9cdd17b48588a5b64e6864f4ace6.js": "/EcomSite/precache-manifest.497c9cdd17b48588a5b64e6864f4ace6.js",
+    "service-worker.js": "/EcomSite/service-worker.js",
+    "static/css/main.6e9827c4.chunk.css.map": "/EcomSite/static/css/main.6e9827c4.chunk.css.map",
+    "static/js/2.b6766690.chunk.js.LICENSE.txt": "/EcomSite/static/js/2.b6766690.chunk.js.LICENSE.txt",
+    "static/media/crown.ed28accb.svg": "/EcomSite/static/media/crown.ed28accb.svg",
+    "static/media/slider.styles.css": "/EcomSite/static/media/women.d7c263d2.jpg",
+    "static/media/shopping-bag.30f07071.svg": "/EcomSite/static/media/shopping-bag.30f07071.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50ac77de.js",
+    "static/js/2.b6766690.chunk.js",
+    "static/css/main.6e9827c4.chunk.css",
+    "static/js/main.c5a1ed7f.chunk.js"
+  ]
+}
